@@ -4,6 +4,8 @@ In this assignment, I wrote the three functions of collectEmployees, displayAver
 
 ## Link to Deployed Version
 
-
+https://tjjohnson76.github.io/hw03-javascript/
 
 ## Screenshot of Deployed Version
+
+![alt text](javascriptHW.png)
